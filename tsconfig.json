@@ -20,6 +20,8 @@
   },
   "tstl": {
     "luaTarget": "5.4",
-    "noHeader": true
+    "noHeader": true,
+    "noImplicitGlobalVariables": true,
+    "noImplicitSelf": true
   }
 }
