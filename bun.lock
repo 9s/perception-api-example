@@ -6,7 +6,7 @@
       "devDependencies": {
         "@types/bun": "latest",
         "lua-types": "^2.13.1",
-        "perception-api": "^0.0.5",
+        "perception-api": "^0.0.6",
         "typescript-to-lua": "^1.31.0",
       },
       "peerDependencies": {
@@ -39,7 +39,7 @@
 
     "path-parse": ["path-parse@1.0.7", "", {}, "sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw=="],
 
-    "perception-api": ["perception-api@0.0.5", "", { "peerDependencies": { "typescript": "^5.8.2" } }, "sha512-Juf7HMNnxm9n/zh937D2XJ2DJPpq25M3INtMVXS9dl3NmKqpDaK7k96IlGfxAReLp+d3zZZgOu9QYNTPVxAZ/Q=="],
+    "perception-api": ["perception-api@0.0.6", "", { "peerDependencies": { "typescript": "^5.8.2" } }, "sha512-Qr9AxfRJ1vm0zs9/Bw6FNTT8nV/ewqNh2JtHE27+LXAN5lEEn+VHRTQHO6w7Y/lpd5gUFKpB69j8ETCppJwGfA=="],
 
     "picomatch": ["picomatch@2.3.1", "", {}, "sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA=="],
 
